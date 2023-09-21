@@ -1,0 +1,14 @@
+Overview
+
+This repository contains the sales report for a technology store. The report covers sales data for the year 2019 and is intended to provide insights and analysis to support business decisions and strategies.
+
+Report Contents
+
+The sales report consists of the following sections:
+
+Data Merging and Cleaning: Details on how sales data was merged and cleaned to ensure accuracy in the analysis.
+Sales Overview: An in-depth analysis of overall sales performance, including total revenue, growth trends, and top-selling products.
+Geographical Analysis: Insights into sales performance by location, including top-performing states or cities.
+Product Analysis: Analysis of product sales, including top-selling products and products with the highest revenue.
+Customer Analysis: Information on customer buying behavior, including the best sales date, sales per month, website traffic, and sales per hour.
+Recommendations: Actionable recommendations based on the probability of two products being sold together, allowing for effective cross-selling strategies.
