@@ -12,3 +12,5 @@ Geographical Analysis: Insights into sales performance by location, including to
 Product Analysis: Analysis of product sales, including top-selling products and products with the highest revenue.
 Customer Analysis: Information on customer buying behavior, including the best sales date, sales per month, website traffic, and sales per hour.
 Recommendations: Actionable recommendations based on the probability of two products being sold together, allowing for effective cross-selling strategies.
+
+Link to the dataset: https://www.kaggle.com/datasets/knightbearr/sales-product-data
